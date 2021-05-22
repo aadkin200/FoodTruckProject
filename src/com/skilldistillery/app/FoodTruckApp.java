@@ -69,6 +69,7 @@ public class FoodTruckApp {
 				fta.getHighestRatedTruck(foodTruckArr);
 				break;
 			case 4:
+				System.out.println("Goodbye!");
 				menu = false;
 				System.exit(0);
 				break;
