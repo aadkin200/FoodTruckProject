@@ -15,5 +15,5 @@ This program allows the user to input multiple food trucks as objects. Users can
 ### How to run
 -All that is required is to run the program
 ### Lessons Learned
--working relationships between static and non static methods
--working with null values and how to use them to your advantage
+-working relationships between static and non static methods<br>
+-working with null values and how to use them to your advantage<br>
